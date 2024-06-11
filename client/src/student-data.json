@@ -1,0 +1,41 @@
+[ {
+  "id": 1,
+  "name": "Alice Johnson",
+  "gender": "Female",
+  "physics": 85,
+  "maths": 90,
+  "english": 78
+},
+{
+  "id": 2,
+  "name": "Bob Smith",
+  "gender": "Male",
+  "physics": 75,
+  "maths": 82,
+  "english": 88
+},
+{
+  "id": 3,
+  "name": "Charlie Brown",
+  "gender": "Male",
+  "physics": 95,
+  "maths": 80,
+  "english": 85
+},
+{
+  "id": 4,
+  "name": "Diana Prince",
+  "gender": "Female",
+  "physics": 78,
+  "maths": 85,
+  "english": 92
+},
+{
+  "id": 5,
+  "name": "Evan Wright",
+  "gender": "Male",
+  "physics": 88,
+  "maths": 92,
+  "english": 80
+}
+]
